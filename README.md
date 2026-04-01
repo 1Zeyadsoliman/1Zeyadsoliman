@@ -1,43 +1,20 @@
 # 👋 Hi, I'm Zeyad Soliman! 
-### 🚀 Front-End Developer | React Specialist | UI/UX Enthusiast
+### 🚀 Front-End Developer | React Developer | CS Student
 
-I'm a **3rd-year Computer Science student** at Modern Academy, focused on creating high-performance, minimalist, and high-contrast web experiences.
+I'm a **3rd-year Computer Science student** at Modern Academy, focused on building high-performance web experiences with a minimalist, high-contrast aesthetic.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-#### 🌐 Core Technologies
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### ⚛️ Frameworks & Libraries
-<p align="left">
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-#### 🔧 Tools & Workflow
-<p align="left">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq_AI-00CC99?style=for-the-badge&logo=ai&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Zeyadsoliman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Zeyadsoliman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1Zeyadsoliman&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -48,7 +25,7 @@ I'm a **3rd-year Computer Science student** at Modern Academy, focused on creati
 
 ---
 
-### 📫 Get In Touch
+### 📫 Connect With Me
 * 💼 **LinkedIn:** [Zeyad Soliman](https://linkedin.com/in/zeyad-soliman-638111374)
 * 📧 **Email:** [zeyad.soliman200@gmail.com](mailto:zeyad.soliman200@gmail.com)
 
