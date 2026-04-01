@@ -33,15 +33,12 @@ I'm a **3rd-year Computer Science student** at Modern Academy, focused on creati
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Zeyadsoliman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zeyad's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1Zeyadsoliman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Zeyadsoliman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Zeyadsoliman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Zeyadsoliman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Zeyadsoliman&theme=tokyonight&hide_border=true" width="700" />
 </p>
 
 ---
