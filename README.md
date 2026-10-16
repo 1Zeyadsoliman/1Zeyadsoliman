@@ -37,7 +37,7 @@ I'm a **4th-year Computer Science student** at Modern Academy, focused on creati
 
 ### 🏆 Certifications
 
-- 🎓 **Advanced Web Development (ASP.NET)** — RAY Group (Regional AI Yard Group) | 2025
+- 🎓 **Advanced Web Development (ASP.NET)** — RAY Group (Regional AI Yard Group) | 2026
 - 🎓 **Front-End Development** — Div Academy | 2024
 
 ---
